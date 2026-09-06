@@ -1,0 +1,1 @@
+Hey I am a cse student from India....started python and my resource is apna college yt channel which has a playlist dedicated to python programming...all codes i write while i learn will be pushed in this repository...thanku 
